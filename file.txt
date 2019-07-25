@@ -1,8 +1,0 @@
-Gulpfile.js
-LICENSE
-[0m[01;34mapp[0m/
-file.txt
-main.scss
-[01;34mnode_modules[0m/
-package-lock.json
-package.json

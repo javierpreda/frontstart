@@ -9,7 +9,9 @@ Frontstart is a series of gulp tasks that help you quickly setup your frontend d
 
 # Setup
 
-Fist, check if you have node and gulp installed, then:
+After cloning or downloading this repo,
+First, make sure you have node and gulp installed on your system, 
+On your terminal, navigate to the root frontstart folder and execute:
 
 ```
 npm install
